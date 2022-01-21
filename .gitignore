@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# files to ignore
+Practice.ipynb_checkpoints
+Practice.ipynb
+Mission_to_Mars.ipynb
