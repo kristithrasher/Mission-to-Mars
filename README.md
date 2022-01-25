@@ -4,16 +4,18 @@ Robin, who hopes to be noticed by NASA created a web app that functions well, bu
 
 ## Analysis
     1. Scrape Full-Resolution Mars Hemisphere Images and Titles
-        -Save the Full Size image URL and Title for each of the 4 hemispheres into a list. 
+    ![hemisphereImagesTitles](https://user-images.githubusercontent.com/94208810/151027162-4513020f-35da-4e85-9c1e-47799c411f96.png)
         
         
     2. Update the Web App with Mars Hemisphere Images and Titles
-       -Add code to scrape new data that pulls the full images of the hemispheres and displays to web app. 
+    ![4hemisphereImgs](https://user-images.githubusercontent.com/94208810/151027156-907b9464-0aca-4941-98fb-eb7a7cfab7a7.png) 
        
         
-        
+       
+
     3. Add Bootstrap components
         - Added the following <meta> tag inside the <head> element and added 
+
             <meta name="viewport" content="width=device-width, initial-scale=1.0" />
             <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" inside my index.html to make website mobile responsive and to use bootstrap components. 
 
