@@ -9,11 +9,22 @@ Robin, who hopes to be noticed by NASA created a web app that functions well, bu
         
     2. Update the Web App with Mars Hemisphere Images and Titles
        -Add code to scrape new data that pulls the full images of the hemispheres and displays to web app. 
+       
         
         
     3. Add Bootstrap components
-        -
+        - Added the following <meta> tag inside the <head> element and added 
+            <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" inside my index.html to make website mobile responsive and to use bootstrap components. 
 
+        -   Used bootstrap component jupotron to create a header for webpage. 
+            Example:  <div class = 'jumbotron text-center">
+
+      -     Used bootstrap component to style the "Scrape New Data" button. 
+            Example:  <a class="btn btn-primary btn-lg" href="/scrape" role="button">Scrape New Data</a><p>
+        
+      -     Added the hemisphere images as thumbnails. 
+            <div class="thumbnail">
 
 
 
