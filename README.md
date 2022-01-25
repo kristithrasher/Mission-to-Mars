@@ -5,8 +5,6 @@ Robin, who hopes to be noticed by NASA created a web app that functions well, bu
 -	Scrape Full-Resolution Mars Hemisphere Images and Titles
 ![hemisphereImagesTitles](https://user-images.githubusercontent.com/94208810/151029806-fd808e20-3bbd-4a36-9d76-1f3cc758a212.png)
 
-        
-        
 -	Update the Web App with Mars Hemisphere Images and Titles
 ![4hemisphereImgs (2)](https://user-images.githubusercontent.com/94208810/151029772-242297b9-cf50-4ef0-b353-392246b105b1.png)
 
